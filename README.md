@@ -2,7 +2,7 @@
   <img src="https://github.com/jessiferreira/compras/assets/121064773/3e2b29d6-b060-4d28-a32b-8739a997c9cb" width="1200px">
 </p>
 
-[![Generic badge](https://img.shields.io/badge/Tecnologia-Java-C2078F.svg)](https://shields.io/)&nbsp;
+[![Generic badge](https://img.shields.io/badge/Linguagem-Java-C2078F.svg)](https://shields.io/)&nbsp;
 [![Generic badge](https://img.shields.io/badge/IDE-IntelliJ_IDEA-C2078F.svg)](https://shields.io/)&nbsp;
 [![Generic badge](https://img.shields.io/badge/Status-Concluído-C2078F.svg)](https://shields.io/)
 
